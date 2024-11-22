@@ -1,0 +1,14 @@
+Package: anglemaniaData
+Title: Data related to anglemania
+Version: 0.99.0
+Authors@R: 
+    person("Aaron", "Kollotzek", , "aaron.kollotzek@mdc-berlin.de", role = c("aut", "cre"),
+           comment = c(ORCID = "0009-0009-7142-4015"))
+Description: Data related to anglemania.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: 
+    Seurat,
+    splatter
